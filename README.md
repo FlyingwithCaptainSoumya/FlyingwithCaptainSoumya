@@ -1,4 +1,4 @@
-### Hey there, I'm Soumya - aka [Gaurav] 🙋‍♂️
+### Hey there, I'm Soumya 🙋‍♂️
 
 This is a place where I opensource stuff and break things🤣
 
