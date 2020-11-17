@@ -49,12 +49,11 @@ This is a place where I opensource stuff and break things🤣
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Soumya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FlyingwithCaptainSoumya&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
 
-</details>
+<img align="left" alt="Soumya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FlyingwithCaptainSoumya&show_icons=true&hide_border=true" />
+
 
 [twitter]: https://twitter.com/Soumya320
 [instagram]: https://instagram.com/soumya__das
