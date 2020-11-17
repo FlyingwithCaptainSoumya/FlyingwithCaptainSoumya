@@ -53,7 +53,7 @@ This is a place where I opensource stuff and break things🤣
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Soumya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FlyingwithCaptainSoumya&show_icons=true&hide_border=true" />
-
+<img align="left" alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6" />
 
 [twitter]: https://twitter.com/Soumya320
 [instagram]: https://instagram.com/soumya__das
