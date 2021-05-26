@@ -81,7 +81,7 @@
 <a href="https://twitter.com/Soumya320"><img src="https://img.shields.io/static/v1?label=Follow @Soumya&message= &color=1DA1F2&style=for-the-badge&logo=twitter"></a>
 <a href="https://www.instagram.com/soumya__das/
 ?tab=followers"><img src="https://img.shields.io/static/v1?label=Follow @Soumya&message= &color=cd486b&style=for-the-badge&logo=instagram"></a>
-
+[<img src="https://img.shields.io/static/v1?label=Follow @Soumya&message= &color=1DA1F2&style=for-the-badge&logo=twitter">](https://twitter.com/Soumya320)
 
 
 
