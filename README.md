@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love to play PC Games & Illustrate -->
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **Flask Projects**
 
 - 🌱 I’m currently learning **Node, React, MongoDB**
 
