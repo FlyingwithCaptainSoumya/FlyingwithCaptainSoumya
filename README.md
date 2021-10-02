@@ -64,9 +64,6 @@
 <hr>
 <br>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Soumya Das Spotify Playing" width="350" />](https://open.spotify.com/user/31ytjg65za5ps3vhqaxp2klg6jhe)
 
 
 ### Connect with me:
